@@ -1,3 +1,7 @@
+* {
+    font-family: 'Varela Round', sans-serif;
+    background-color: #EDDCD2;
+}
 #main {
     text-align: center;
 }
@@ -8,4 +12,17 @@
     height: auto;
     margin: 0 auto;
 
+}
+#list {
+    width: 600px;
+    text-align: start;
+    margin: auto;
+}
+#list li{
+    padding-top: 1rem;
+}
+
+.text {
+    width: 600px;
+    margin: auto;
 }
